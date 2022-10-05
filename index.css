@@ -1,5 +1,6 @@
 
 
+
 body{
 
   background: linear-gradient(to bottom, rgb(21, 198, 223), rgb(7, 236, 217));
@@ -12,10 +13,14 @@ body{
     text-align:  center;
 
 
- }
+#imagem1 {
+  border: 10px; deshed   white;
+  margin: 20px;
+  padding: 30px;
+  
 
 
-
+}
 
 
 
