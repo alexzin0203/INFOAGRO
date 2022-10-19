@@ -1,27 +1,13 @@
-
-
-
-body{
-
-  background: linear-gradient(to bottom, rgb(21, 198, 223), rgb(7, 236, 217));
-    
+h1{
+  color: rgb(91, 238, 23);
+  text-align: center;
 }
-
- h1 {
-
-   color:#000000
-    text-align:  center;
-
-
-#imagem1 {
-  border: 10px; deshed   white;
-  margin: 20px;
-  padding: 30px;
-  
-
-
+ 
+.imagem {
+  border: 0px; deshed   white;
+  margin: 0px;
+  padding: 40px;
 }
-
 
 
 
